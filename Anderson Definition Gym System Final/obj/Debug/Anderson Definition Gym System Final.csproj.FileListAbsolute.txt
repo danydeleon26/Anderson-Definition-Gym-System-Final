@@ -1,0 +1,12 @@
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\bin\Debug\Anderson Definition Gym System Final.exe.config
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\bin\Debug\Anderson Definition Gym System Final.exe
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\bin\Debug\Anderson Definition Gym System Final.pdb
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson Definition Gym System Final.csprojResolveAssemblyReference.cache
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson_Definition_Gym_System_Final.formularioPrincipal.resources
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson_Definition_Gym_System_Final.Properties.Resources.resources
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson Definition Gym System Final.csproj.GenerateResource.cache
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson Definition Gym System Final.exe.licenses
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson Definition Gym System Final.csproj.CoreCompileInputs.cache
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson Definition Gym System Final.exe
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson Definition Gym System Final.pdb
+c:\users\dany-pc\source\repos\Anderson Definition Gym System Final\Anderson Definition Gym System Final\obj\Debug\Anderson_Definition_Gym_System_Final.forms.formularioAgregar_ActualizarClientes.resources
