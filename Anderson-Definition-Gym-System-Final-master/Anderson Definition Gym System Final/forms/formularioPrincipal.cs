@@ -20,8 +20,8 @@ namespace Anderson_Definition_Gym_System_Final
 
         Conecxiones conecxiones = new Conecxiones();
 
-        //formularioAgregar_ActualizarClientes formularioAgregar_ActualizarClientes = new formularioAgregar_ActualizarClientes();
-
+        
+            
 
 
         private void formularioPrincipal_Load(object sender, EventArgs e)
@@ -49,12 +49,17 @@ namespace Anderson_Definition_Gym_System_Final
 
         private void radButtonElement1_Click(object sender, EventArgs e)
         {
-            //formularioAgregar_ActualizarClientes.Show();
+            formularioAgregar_ActualizarClientes formularioAgregar_ActualizarClientes = new formularioAgregar_ActualizarClientes();
+
+            formularioAgregar_ActualizarClientes.Show();
         }
+
 
         private void radRibbonBarGroup1_Click(object sender, EventArgs e)
         {
-            //formularioAgregar_ActualizarClientes.Show();
+            formularioAgregar_ActualizarClientes formularioAgregar_ActualizarClientes = new formularioAgregar_ActualizarClientes();
+
+            formularioAgregar_ActualizarClientes.Show();
         }
     }
 }
