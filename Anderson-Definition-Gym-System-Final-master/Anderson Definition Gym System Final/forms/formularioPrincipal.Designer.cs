@@ -30,11 +30,11 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(formularioPrincipal));
             this.radRibbonBar1 = new Telerik.WinControls.UI.RadRibbonBar();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.buscarNombre = new System.Windows.Forms.TextBox();
             this.ribbonTab1 = new Telerik.WinControls.UI.RibbonTab();
             this.radRibbonBarGroup1 = new Telerik.WinControls.UI.RadRibbonBarGroup();
             this.radButtonElement1 = new Telerik.WinControls.UI.RadButtonElement();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.buscarNombre = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.radRibbonBar1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -56,26 +56,6 @@
             this.radRibbonBar1.Size = new System.Drawing.Size(927, 166);
             this.radRibbonBar1.TabIndex = 0;
             this.radRibbonBar1.Text = "Form1";
-            // 
-            // dataGridView1
-            // 
-            this.dataGridView1.AllowUserToAddRows = false;
-            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(175, 196);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dataGridView1.Size = new System.Drawing.Size(740, 395);
-            this.dataGridView1.TabIndex = 1;
-            // 
-            // buscarNombre
-            // 
-            this.buscarNombre.Location = new System.Drawing.Point(175, 168);
-            this.buscarNombre.Name = "buscarNombre";
-            this.buscarNombre.Size = new System.Drawing.Size(314, 22);
-            this.buscarNombre.TabIndex = 2;
-            this.buscarNombre.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // ribbonTab1
             // 
@@ -99,6 +79,26 @@
             this.radButtonElement1.Name = "radButtonElement1";
             this.radButtonElement1.Text = "";
             this.radButtonElement1.Click += new System.EventHandler(this.radButtonElement1_Click);
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.ButtonFace;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(175, 223);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.RowTemplate.Height = 24;
+            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridView1.Size = new System.Drawing.Size(740, 368);
+            this.dataGridView1.TabIndex = 1;
+            // 
+            // buscarNombre
+            // 
+            this.buscarNombre.Location = new System.Drawing.Point(175, 195);
+            this.buscarNombre.Name = "buscarNombre";
+            this.buscarNombre.Size = new System.Drawing.Size(314, 22);
+            this.buscarNombre.TabIndex = 2;
+            this.buscarNombre.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // formularioPrincipal
             // 

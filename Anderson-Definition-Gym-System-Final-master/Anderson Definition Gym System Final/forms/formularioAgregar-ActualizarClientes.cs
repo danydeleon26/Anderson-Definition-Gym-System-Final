@@ -48,6 +48,8 @@ namespace Anderson_Definition_Gym_System_Final.forms
             sexo.Items.Add("Mujer");
             sexo.SelectedIndex = 0;
 
+            fecha.Value = DateTime.Now;
+
         }
 
         #region botonCerrar
