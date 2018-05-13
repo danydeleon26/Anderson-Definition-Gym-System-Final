@@ -61,5 +61,23 @@ namespace Anderson_Definition_Gym_System_Final
 
             formularioAgregar_ActualizarClientes.Show();
         }
+
+        private void radButtonElement2_Click(object sender, EventArgs e)
+        {
+            conecxiones.conectarConLaBaseDedatos();
+
+            string a = this.dataGridView1.CurrentRow.Cells[0].Value.ToString();
+
+
+            string eliminar = "delete Clientes where id =" + a + "; ";
+
+            conecxiones.Ejecutarsql(eliminar);
+
+            //consultar nuevamente despues de eliminar
+
+            conecxiones.actualizarDataGridView(this.dataGridView1, "select * from Clientes");
+
+            conecxiones.deconectarLaBaseDeDatos();
+        }
     }
 }

@@ -20,7 +20,15 @@ namespace Anderson_Definition_Gym_System_Final
         public void conectarConLaBaseDedatos()
 
         {
-            conn.Open();
+            if (conn.State != ConnectionState.Open)
+
+            {
+                conn.Open();
+
+            }
+
+
+
 
         }
 
